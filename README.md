@@ -8,6 +8,7 @@ Windows 10 on AWS EC2
 | Related Reading      | [Original Guide](https://gist.github.com/peterforgacs/abebc777fcd6f4b67c07b2283cd31777) |
 
 Check out a video version of this guide at: VIDEO COMING SOON
+https://www.youtube.com/watch?v=Gs8UmPSpSVI&ab_channel=TechGuru
 
 ## Table of Contents
 
